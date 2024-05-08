@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MeterReadingUploads/obj
+/MeterReadingUploads/bin/Debug/net8.0
+/.vs
+/MeterReadingUploads/.vs
+/MeterReadingUploadsTests/bin/Debug/net8.0
+/MeterReadingUploadsTests/obj
+/src/MeterReadingApi
